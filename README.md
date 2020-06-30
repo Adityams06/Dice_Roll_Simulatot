@@ -1,8 +1,8 @@
-###Dice roll simulator
+#Dice roll simulator
 
 classic rolling dice simulator with touch of graphics built in Python.
 
-##How to setup a development environment
+###How to setup a development environment
 
     GNU/Linux Installation Instructions
 
@@ -31,7 +31,6 @@ python3 DiceRoll.py
 
 **Both the files are required for the program to run**
 
-<img src=“<img src=“https://github.com/KrisKasprzak/ILI9341_t3_controls 51”>
-Equalizer”>
+![alt text](https://github.com/Adityams06/Dice_Roll_Simulatot/blob/master/Annotation.png)
 
 
