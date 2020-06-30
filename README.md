@@ -21,9 +21,6 @@ The easiest way to install Python (and many other common programs) for Windows i
 
 For all python files, use Notepad++ to change the end of line from UNIX / OS X Format to Windows Format.
 
-    If DMS is not compatible with your system...
-
-Install python. Download this script. Open a terminal. Change to the directory with the script.
 
 Run with this command:
 
