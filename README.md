@@ -1,6 +1,6 @@
 # Dice roll simulator
 
-Classic rolling dice simulator with touch of graphics built in Python.
+Classic rolling dice simulator with touch of graphics built using Python.
 
 ## How to setup a development environment
 
