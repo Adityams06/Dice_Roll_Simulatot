@@ -141,12 +141,13 @@ def main():
     print('total sum= '+str(sum1))
     
 def out():
-        a=input("how many times do you wanna roll the dice\n")
-        c=int(a)
-        for b in range (0,c):
-                main()
+    main()
 
-                #print(sum1)
-                #break
+    while True:
+        a=str.lower(input("Wanna Roll The Dice Again? (Y or N)\n"))
+        if (a == ("y"or"yes")):
+            main()
+        else:
+            break
 
 out()
